@@ -1,11 +1,11 @@
 
 fun main() {
     // Prompting the user to enter the first number
-    print("Enter first number: ")
+    print("Enter initial number: ")
     val num1 = readLine()!!.toDouble()
 
     // Prompting the user to enter the second number
-    print("Enter second number: ")
+    print("Enter final7 number: ")
     val num2 = readLine()!!.toDouble()
 
     // Prompting the user to choose an operation
@@ -25,4 +25,3 @@ fun main() {
 
     println("Result: $result")
 }
-git
